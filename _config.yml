@@ -24,8 +24,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the companion site for the book, "Introduction to Chaos, Fractals and Dynamical Systems".
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  introtochaosbook
+
+github:
+  is_product_page: false
 
 # Build settings
 remote_theme: introtochaosbook/cayman
