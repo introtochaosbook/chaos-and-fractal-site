@@ -248,3 +248,48 @@ Julia set of \(f(z) = Z^2+ .3-4i\)</figcaption>
     </a>
     <figcaption>Fig 3.23. An EKG output simulated using a Julia set</figcaption>
 </figure>
+
+# Chapter 4
+
+<figure id="castle">
+    <a href="{{ "/assets/images/castle.png" | relative_url }}">
+    <img src="{{ "/assets/images/castle.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 4.1. Castle</figcaption>
+</figure>
+
+<figure id="maze">
+    <a href="{{ "/assets/images/maze.png" | relative_url }}">
+    <img src="{{ "/assets/images/maze.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 4.2. A fractal maze</figcaption>
+</figure>
+
+<figure id="pond">
+    <a href="{{ "/assets/images/pond.jpg" | relative_url }}">
+    <img src="{{ "/assets/images/pond.jpg" | relative_url }}">
+    </a>
+    <figcaption>Fig 4.3. "Winter reflections" by waferboard is marked with CC BY 2.0. 
+To view the terms, visit <a href="https://creativecommons.org/licenses/by/2.0/?ref=openverse">https://creativecommons.org/licenses/by/2.0/?ref=openverse</a>. Originally in color.</figcaption>
+</figure>
+
+<figure id="swamp">
+    <a href="{{ "/assets/images/swamp.png" | relative_url }}">
+    <img src="{{ "/assets/images/swamp.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 4.4. Computer generated equivalent of swampy pond shown in "winter reflections"</figcaption>
+</figure>
+
+<figure id="price">
+    <a href="{{ "/assets/images/price.png" | relative_url }}">
+    <img src="{{ "/assets/images/price.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 4.6. Bifurcation diagram for model economic system</figcaption>
+</figure>
+
+<figure id="game-of-life">
+    <a href="{{ "/assets/images/gol.gif" | relative_url }}">
+    <img src="{{ "/assets/images/gol.gif" | relative_url }}">
+    </a>
+    <figcaption>An example Game of Life run</figcaption>
+</figure>
