@@ -47,8 +47,8 @@
 </figure>
 
 <figure id="inferno-duoady-10">
-    <a href="{{ "/assets/images/inferno-subdivide-10.svg" | relative_url }}">
-    <img src="{{ "/assets/images/inferno-subdivide-10.svg" | relative_url }}">
+    <a href="{{ "/assets/images/inferno-subdivide-10.png" | relative_url }}">
+    <img src="{{ "/assets/images/inferno-subdivide-10.png" | relative_url }}">
     </a>
     <figcaption>Fig 2.7. Inferno color scheme utilization (dashed box) for Douady’s rabbit with 10 iterations. 
     Note how the darker colors on the left are not used because the escape iteration count starts at 3</figcaption>
@@ -62,8 +62,8 @@
 </figure>
 
 <figure id="inferno-duoady-50">
-    <a href="{{ "/assets/images/inferno-subdivide-50.svg" | relative_url }}">
-    <img src="{{ "/assets/images/inferno-subdivide-50.svg" | relative_url }}">
+    <a href="{{ "/assets/images/inferno-subdivide-50.png" | relative_url }}">
+    <img src="{{ "/assets/images/inferno-subdivide-50.png" | relative_url }}">
     </a>
     <figcaption>Fig 2.9. Inferno color scheme utilization (dashed box) for Douady’s rabbit with 50 iterations</figcaption>
 </figure>
