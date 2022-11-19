@@ -122,6 +122,13 @@ All images of copyright Christopher Laplante. Usage or reproduction of any kind 
 
 ## Chapter 3
 
+<figure id="seals">
+    <a href="{{ "/assets/images/seals.png" | relative_url }}">
+    <img src="{{ "/assets/images/seals.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 3.4. Seals</figcaption>
+</figure>
+
 <figure id="julia-amoeba">
     <a href="{{ "/assets/images/julia-amoeba.png" | relative_url }}">
     <img src="{{ "/assets/images/julia-amoeba.png" | relative_url }}">
@@ -142,6 +149,13 @@ Julia set of \(f(z) = Z^2+ .3-4i\)</figcaption>
     <img src="{{ "/assets/images/fern-ifs.png" | relative_url }}">
     </a>
     <figcaption>Fig 3.7. A fern leaf generated via IFS</figcaption>
+</figure>
+
+<figure id="tree-ifs">
+    <a href="{{ "/assets/images/tree-ifs.png" | relative_url }}">
+    <img src="{{ "/assets/images/tree-ifs.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 3.8. IFS Representation of a tree</figcaption>
 </figure>
 
 <figure id="forest">
