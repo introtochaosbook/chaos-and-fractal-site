@@ -25,13 +25,6 @@
     <figcaption>Fig 2.4. Douady’s rabbit</figcaption>
 </figure>
 
-<figure id="julia-rabbit">
-    <a href="{{ "/assets/images/julia-rabbit.png" | relative_url }}">
-    <img src="{{ "/assets/images/julia-rabbit.png" | relative_url }}">
-    </a>
-    <figcaption>Fig 2.4. Douady’s rabbit</figcaption>
-</figure>
-
 <figure id="inferno">
     <a href="{{ "/assets/images/inferno.png" | relative_url }}">
     <img src="{{ "/assets/images/inferno.png" | relative_url }}">
