@@ -1,6 +1,6 @@
 # Images
 
-All images of copyright Christopher Laplante. Usage or reproduction of any kind is prohibited without permission.
+All images copyright Christopher Laplante. Usage or reproduction of any kind is prohibited without permission.
 
 ## Chapter 1
 
