@@ -9,6 +9,14 @@
     <figcaption>Fig 1.3. The Mandelbrot Set</figcaption>
 </figure>
 
+<figure id="bifurcation">
+    <a href="{{ "/assets/images/bifurcation.png" | relative_url }}">
+    <img src="{{ "/assets/images/bifurcation.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 1.4. Bifurcation diagram for \(f(x) = x^2 + c\) with
+\(x=0\) and \(c\) swept from \(-2.0\) to \(1.0\)</figcaption>
+</figure>
+
 ## Chapter 2
 
 <figure id="julia-cosh">
