@@ -141,7 +141,7 @@ Julia set of \(f(z) = Z^2+ .3-4i\)</figcaption>
     <a href="{{ "/assets/images/fern-ifs.png" | relative_url }}">
     <img src="{{ "/assets/images/fern-ifs.png" | relative_url }}">
     </a>
-    <figcaption>Fig 3.6. A fern leaf generated via IFS</figcaption>
+    <figcaption>Fig 3.7. A fern leaf generated via IFS</figcaption>
 </figure>
 
 <figure id="forest">
