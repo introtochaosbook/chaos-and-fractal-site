@@ -26,7 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  introtochaosbook
 
-images_url: "images.md"
+images_url: "images"
 
 # Build settings
 remote_theme: introtochaosbook/cayman
