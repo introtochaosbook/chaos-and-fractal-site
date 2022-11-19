@@ -1,6 +1,6 @@
 # Images
 
-All images copyright Christopher Laplante. Usage or reproduction of any kind is prohibited without permission.
+All images copyright Christopher Laplante unless otherwise noted. Usage or reproduction of any kind is prohibited without permission.
 
 ## Chapter 1
 
@@ -293,3 +293,4 @@ To view the terms, visit <a href="https://creativecommons.org/licenses/by/2.0/?r
     </a>
     <figcaption>An example Game of Life run</figcaption>
 </figure>
+
