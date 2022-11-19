@@ -88,3 +88,31 @@
     </a>
     <figcaption>Fig 2.12. Douady’s rabbit created using 800 iterations with histogram coloring</figcaption>
 </figure>
+
+<figure id="julia-siegel">
+    <a href="{{ "/assets/images/julia-siegel.png" | relative_url }}">
+    <img src="{{ "/assets/images/julia-siegel.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 2.13. A Siegel disk</figcaption>
+</figure>
+
+<figure id="julia-dragon">
+    <a href="{{ "/assets/images/julia-dragon.png" | relative_url }}">
+    <img src="{{ "/assets/images/julia-dragon.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 2.14. A dragon</figcaption>
+</figure>
+
+<figure id="julia-sin">
+    <a href="{{ "/assets/images/julia-sin.png" | relative_url }}">
+    <img src="{{ "/assets/images/julia-sin.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 2.15. The Julia set of \(sin(z)\)</figcaption>
+</figure>
+
+<figure id="mandelbrot">
+    <a href="{{ "/assets/images/mandelbrot-1.png" | relative_url }}">
+    <img src="{{ "/assets/images/mandelbrot-1.png" | relative_url }}">
+    </a>
+    <figcaption>Fig 2.17. The Mandelbrot Set</figcaption>
+</figure>
