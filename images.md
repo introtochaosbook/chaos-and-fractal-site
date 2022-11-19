@@ -1,5 +1,7 @@
 # Images
 
+All images of copyright Christopher Laplante. Usage or reproduction of any kind is prohibited without permission.
+
 ## Chapter 1
 
 <figure id="mandelbrot-histogram">
